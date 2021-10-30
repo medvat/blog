@@ -1,0 +1,17 @@
+.home_page{
+    display: flex;
+    width: auto;
+    flex-direction: row;
+    justify-content: flex-start;
+
+}
+
+.list {
+    vertical-align: top;
+    padding: 30px;
+}
+
+.title{
+    vertical-align: top;
+
+}
